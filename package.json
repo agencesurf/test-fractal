@@ -1,0 +1,23 @@
+{
+  "name": "fractal-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp fractal:start",
+    "build": "gulp fractal:build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@frctl/fractal": "^1.5.15",
+    "@frctl/mandelbrot": "^1.10.3",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.65.1"
+  },
+  "devDependencies": {
+    "gulp-gh-pages": "^0.5.4"
+  }
+}

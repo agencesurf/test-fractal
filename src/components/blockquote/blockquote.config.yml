@@ -1,0 +1,5 @@
+# https://fractal.build/guide/core-concepts/configuration-files.html#configuration-file-formats
+context:
+  text: "Blockquotes are the best!"
+  citation: "Fractal Docs"
+status: "prototype" # https://fractal.build/guide/core-concepts/statuses.html#default-statuses
