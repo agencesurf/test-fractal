@@ -1,4 +1,4 @@
-# SURF CREATIVE CONTENT GUIDELINE POUR CAF
+# CAF GUIDELINE
 
 La documentation de Fractal est disponible [ici](https://fractal.build).
 
